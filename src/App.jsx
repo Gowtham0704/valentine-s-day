@@ -119,7 +119,9 @@ function App() {
         <div className="card">
           <h1 className="title">
             <span className="highlight">Aishu,</span>
-            Will you be my Valentine? 💖💞
+            Will you be my Valentine... ? 
+            <br />
+            💖💞
           </h1>
 
           <p className="subtext">Choose wisely. (The "Yes" button is... playing hard to get.)</p>
